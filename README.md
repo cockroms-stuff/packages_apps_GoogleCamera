@@ -7,5 +7,5 @@ To include add this in device.mk:
 PRODUCT_PACKAGES += \
     GoogleCamera  
 ```
-Updates are being posted on [telegram channel](t.me/ctgcam). 
+Updates are being posted on [telegram channel](https://t.me/ctgcam). 
 Have a nice shots!
