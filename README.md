@@ -1,11 +1,9 @@
-# ctgcam
-My 7.4.104 based google camera.                
+# thedise gcam
+gcam by thedise            
 
 To include add this in device.mk:
 ```
-# ctgcam
 PRODUCT_PACKAGES += \
     GoogleCamera  
 ```
-Updates are being posted on [telegram channel](https://t.me/ctgcam). 
-Have a nice shots!
+original source: [here](https://thedise.me "thedise")
